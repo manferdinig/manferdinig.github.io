@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Contact me",
     "title": "Contact me",
-    "content": "University of Bonn Institute for Applied Microeconomics Adenauerallee 24–42 53113 Bonn Germany . manferdini.giacomo@gmail.com @ManferdiniG manferdinig . ",
+    "content": "giacomo.manferdini@phd.unibocconi.it @ManferdiniG manferdinig . ",
     "url": "http://localhost:4000/contacts/",
     "relUrl": "/contacts/"
   },"1": {
@@ -19,7 +19,7 @@
   },"3": {
     "doc": "Home",
     "title": "Welcome!",
-    "content": ". My name is Giacomo Manferdini and since September 2020 I am a Predoctoral Research Associate at the University of Bonn. I am based at the Institue for Applied Microeconomics and I am working with Lorenz Goette and Egon Tripodi. Previosuly, I obtained my M.Sc. in Economics in 2020 and my B.Sc. in Economics and Finance in 2018, both from the University of Bologna. My research interests lie in labor, political, behavioral, and public economics. In September 2021, I will joing the PhD in Economics at Bocconi University. ",
+    "content": ". My name is Giacomo Manferdini and I am a first-year PhD student in economics at Bocconi University. My research interests lie in labor, political, behavioral, and public economics. Previously, after getting a M.Sc. in Economics from the University of Bologna, I worked as research assistant at the University of Bonn for Lorenz Goette and Egon Tripodi. For more details, have a look at my CV . ",
     "url": "http://localhost:4000/#welcome",
     "relUrl": "/#welcome"
   },"4": {
