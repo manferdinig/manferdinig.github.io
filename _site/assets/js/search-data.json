@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Contact me",
     "title": "Contact me",
-    "content": "giacomo.manferdini@phd.unibocconi.it @ManferdiniG manferdinig . ",
+    "content": "Bocconi University, Department of Economics Via Roentgen 1, 20136 Milan, Italy . giacomo.manferdini@phd.unibocconi.it @ManferdiniG manferdinig . ",
     "url": "http://localhost:4000/contacts/",
     "relUrl": "/contacts/"
   },"1": {
@@ -19,7 +19,7 @@
   },"3": {
     "doc": "Home",
     "title": "Welcome!",
-    "content": ". My name is Giacomo Manferdini and I am a first-year PhD student in economics at Bocconi University. My research interests lie in labor, political, behavioral, and public economics. Previously, after getting a M.Sc. in Economics from the University of Bologna, I worked as research assistant at the University of Bonn for Lorenz Goette and Egon Tripodi. For more details, have a look at my CV . ",
+    "content": ". My name is Giacomo Manferdini and I am a first-year PhD student in economics at Bocconi University. My research interests lie in behavioral, labor, political, and public economics. Previously, after getting a M.Sc. in Economics from the University of Bologna, I worked as research assistant at the University of Bonn for Lorenz Goette and Egon Tripodi. ",
     "url": "http://localhost:4000/#welcome",
     "relUrl": "/#welcome"
   },"4": {
