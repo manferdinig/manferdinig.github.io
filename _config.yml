@@ -47,7 +47,7 @@ search_enabled: true
 include: ["_pages"]
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Giacomo Manferdini - manferdini.giacomo@gmail.com"
+# footer_content: "Giacomo Manferdini - manferdini.giacomo@gmail.com"
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
