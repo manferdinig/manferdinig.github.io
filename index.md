@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# About me!
+# About me
 
 <img src="/assets/images/picture.jpg" align="right" alt="Profile picture" class="inline" style="width:40%;padding-left:5%;">
 
